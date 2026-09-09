@@ -251,4 +251,4 @@ This repository serves as the official landing page for AirDroid. The software i
 **Get the most recent version of AirDroid today!**
 
 ---
-**Last updated:** 2026-09-08 22:17:46 UTC
+**Last updated:** 2026-09-09 00:58:48 UTC
